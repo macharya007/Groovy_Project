@@ -9,8 +9,7 @@ public class Hello {
 		{
 			System.out.println("Number value is : "+i);
 		}
-
-
+	        System.out.println("Git Jenkins integration");
 	}
 
 }
