@@ -5,6 +5,10 @@ public class Hello {
 		
 		System.out.println("Hello from Java");
 		System.out.println("Adding 2nd line");
+		for(int i=1;i<10;i++)
+		{
+			System.out.println("Number value is : "+i);
+		}
 
 
 	}
