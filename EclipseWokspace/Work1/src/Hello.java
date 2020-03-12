@@ -9,7 +9,7 @@ public class Hello {
 		{
 			System.out.println("Number value is : "+i);
 		}
-	        System.out.println("Hello , It's Git Jenkins integration");
+	        System.out.println("Hello baby It's Git Jenkins integration");
 	}
 
 }
