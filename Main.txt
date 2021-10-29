@@ -1,3 +1,4 @@
 This is the main branch file
 This not part of the java project.
 This is just a sample file.
+Added a new line
